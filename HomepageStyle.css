@@ -1,1 +1,36 @@
-
+body
+{
+    background-color:#f4a460;
+    color: #955a27;
+}
+h1,h2,h3,h4,h5
+{
+    color: #955a27;
+}
+.centerAlign
+{
+    text-align: center;
+   
+}
+.mainSect
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin:25px;
+    padding: 25px;
+    gap: 35px;
+    border: 1px solid #955a27;
+}
+fieldset
+{
+    border-color: #955a27;
+}
+input
+{
+    background-color: #d6833a;
+}
+.footer
+{
+      text-align: center;
+      font-size: xx-small;
+}
